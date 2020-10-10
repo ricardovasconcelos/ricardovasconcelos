@@ -91,7 +91,7 @@
   </a>
 </p>
 
-### Find me around the web 🌎:
+### Find me around the web 🌎
 
 
 <p align="left">

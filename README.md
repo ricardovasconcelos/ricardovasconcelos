@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="280" src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/logo.png?raw=true" />
+    <img align="center" width="300" src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/logo.png?raw=true" />
   </a>
   <a href="#">
-    <img align="center"width="500" height="320" src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/coding.gif?raw=true" />
+    <img align="center"width="450" height="320" src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/coding.gif?raw=true" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="140"
       src="https://github-readme-stats.vercel.app/api?username=ricardovasconcelos&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>

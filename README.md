@@ -1,9 +1,9 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="280" src="signature.png" />
+    <img align="center" width="280" src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/logo.png?raw=true" />
   </a>
   <a href="#">
-    <img align="center"width="500" height="320" src="coding.gif" />
+    <img align="center"width="500" height="320" src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/coding.gif?raw=true" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px"></h2>
 
 ### Languages and Tools
 
@@ -32,7 +32,7 @@
 <p align="left">
   <a href="https://github.com/vuejs/vue" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg""
+      src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg"
       alt="vue"
       width="40"
       height="40"

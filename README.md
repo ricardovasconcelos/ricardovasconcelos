@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px"></h2>
+## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px" height="30px"></h2>
 
 ### Languages and Tools
 

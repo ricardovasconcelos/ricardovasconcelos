@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="#">
-    <img align="center" width="300" src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/logo.png?raw=true" />
-  </a>
-  <a href="#">
-    <img align="center"width="450" height="320" src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/coding.gif?raw=true" />
-  </a>
-</p>
+
+
+## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px" height="30px"></h2>
+`My name is Ricardo, I started playing with programming when I was 12 years old now I'm graduated with B.S degree in computer science working with web development. Most of my experience is working with ReactJS, VueJS, NodeJS and Javascript ecosystem tools`
+
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,13 +14,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="140"
       src="https://github-readme-stats.vercel.app/api?username=ricardovasconcelos&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
 
-## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px" height="30px"></h2>
+
 
 ### Languages and Tools
 
@@ -86,6 +82,22 @@
       src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
       alt="nodejs"
       width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://graphql.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"
+      alt="docker"
+      width="50"
       height="40"
     />
   </a>

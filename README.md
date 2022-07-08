@@ -1,7 +1,7 @@
 
 
 ## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px" height="30px"></h2>
-`My name is Ricardo, I started playing with programming when I was 12 years old now I'm graduated with B.S degree in computer science working with web development. Most of my experience is working with ReactJS, VueJS, NodeJS and Javascript ecosystem tools`
+`My name is Ricardo, I started playing with programming when I was 12 years old now I'm graduated with B.S degree in computer science and work with web development. Most of my experience is working with ReactJS, VueJS, NodeJS and Javascript ecosystem tools`
 
 
 <p align="center">
@@ -14,6 +14,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
+      height="160"
       src="https://github-readme-stats.vercel.app/api?username=ricardovasconcelos&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>

@@ -1,7 +1,7 @@
 
 
 ## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px" height="30px"></h2>
-`My name is Ricardo, I started playing with programming when I was 12 years old now I'm graduated with B.S degree in computer science and work with web development. Most of my experience is working with ReactJS, VueJS, NodeJS and Javascript ecosystem tools`
+`I have B.S. degree in Computer Science and specialize in web development. I began my career as a developer at the age of 16, and since then, I have worked in major companies, developing applications that impact millions of users daily. My experience is strongly focused on tools within the ReactJS ecosystem, NextJS, JavaScript/TypeScript and NodeJS. Over the years, I have honed my skills in these technologies, creating robust and scalable solutions that meet various market needs. My goal is to continue innovating and contributing to projects that make a difference in the lives of end-users`
 
 
 <p align="center">

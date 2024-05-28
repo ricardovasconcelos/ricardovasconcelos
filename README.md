@@ -116,12 +116,4 @@
       height="40"
     />
   </a>
-  <a href="https://www.youtube.com/channel/UCICtu1YOVjeR0EMl-sr7xIA" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"
-      alt="linkedin"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>

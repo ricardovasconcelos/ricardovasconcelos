@@ -1,7 +1,7 @@
 
 
 ## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px" height="30px"></h2>
-`I have B.S. degree in Computer Science and specialize in web development. I began my career as a developer at the age of 16, and since then, I have worked in major companies, developing applications that impact millions of users daily. My experience is strongly focused on tools within the ReactJS ecosystem, NextJS, JavaScript/TypeScript and NodeJS. Over the years, I have honed my skills in these technologies, creating robust and scalable solutions that meet various market needs. My goal is to continue innovating and contributing to projects that make a difference in the lives of end-users`
+`I'm a Senior Front-End Developer with extensive experience in modern technologies and development methodologies. I have a B.S. degree in Computer Science. I began my career as a developer at the age of 16, and since then, I have worked at major companies, developing applications that impact millions of users daily. My expertise is strongly focused on tools within the ReactJS ecosystem, including NextJS, JavaScript/TypeScript, and NodeJS. Over the years, I have honed my skills in these technologies, creating robust and scalable solutions to meet various market needs. My goal is to continue innovating and contributing to projects that make a difference in the lives of end-users.`
 
 
 <p align="center">

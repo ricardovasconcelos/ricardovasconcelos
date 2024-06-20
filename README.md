@@ -27,14 +27,6 @@
 <br/>
 
 <p align="left">
-  <a href="https://github.com/vuejs/vue" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"
-      alt="vue"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://github.com/facebook/react" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"

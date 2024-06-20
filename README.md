@@ -1,7 +1,7 @@
 
 
 ## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px" height="30px"></h2>
-`I'm a Senior Front-End Developer with extensive experience in modern technologies and development methodologies. I have a B.S. degree in Computer Science. I began my career as a developer at the age of 16, and since then, I have worked at major companies, developing applications that impact millions of users daily. My expertise is strongly focused on tools within the ReactJS ecosystem, including NextJS, JavaScript/TypeScript, and NodeJS. Over the years, I have honed my skills in these technologies, creating robust and scalable solutions to meet various market needs. My goal is to continue innovating and contributing to projects that make a difference in the lives of end-users.`
+`9 years of experience as a Frontend Engineer, I've built highly efficient and scalable applications. My expertise spans the JavaScript ecosystem, including ReactJS, NextJS, TypeScript, and NodeJS. Throughout my career, I've been responsible for developing applications that have impacted a large number of individuals. My motivation is to contribute to projects that bring about real improvements in users' lives.`
 
 
 <p align="center">

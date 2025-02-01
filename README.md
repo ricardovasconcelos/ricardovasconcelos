@@ -3,25 +3,6 @@
 ## Hi there! <img src="https://github.com/ricardovasconcelos/ricardovasconcelos/blob/master/Hi.gif?raw=true" width="30px" height="30px"></h2>
 `9 years of experience as a Frontend Engineer, I've built highly efficient and scalable applications. My expertise spans the JavaScript ecosystem, including ReactJS, NextJS, TypeScript, and NodeJS. Throughout my career, I've been responsible for developing applications that have impacted a large number of individuals. My motivation is to contribute to projects that bring about real improvements in users' lives.`
 
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardovasconcelos&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="160"
-      src="https://github-readme-stats.vercel.app/api?username=ricardovasconcelos&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-
-
 ### Languages and Tools
 
 <br/>
